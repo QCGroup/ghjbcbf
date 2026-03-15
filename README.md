@@ -1,4 +1,4 @@
-# OD-CLF-CBF
+# GHJB-CBF-QP
 
 This repository contains Jupyter notebooks and supporting files to implement the proposed methods and generate all figures from the paper:
 
